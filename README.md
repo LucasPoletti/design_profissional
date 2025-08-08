@@ -1,17 +1,15 @@
 # design_profissional
-# 🚀 Nome do Projeto
+# 🚀 Nome do Projeto : Para resolver a missão 2 do curso do Design Profissional-amamos o chat
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-green)
 
-> Descrição rápida e impactante do seu projeto.  
-> Ex.: "Uma solução moderna para [problema que ele resolve]."
 
 ---
 
 ## 📖 Sobre o Projeto
-Este projeto foi criado para resolver **[descreva o problema que ele resolve]** de forma simples e eficiente, utilizando tecnologias modernas e boas práticas de desenvolvimento.
+Este projeto foi criado para resolver ˜Para resolver a missão 2 do curso do Design Profissional˜ de forma simples e eficiente, utilizando tecnologias modernas e boas práticas de desenvolvimento.
 
 ---
 
